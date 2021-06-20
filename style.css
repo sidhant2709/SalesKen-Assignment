@@ -44,6 +44,6 @@ body {
   outline: 0;
 }
 
-.ddd {
-  color: rgba(202, 201, 201, 0.9);
+canvas {
+  width: 800px;
 }
